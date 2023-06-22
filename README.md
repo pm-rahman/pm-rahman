@@ -16,5 +16,3 @@ Skills:  REACT /Next.js/ JS / HTML / CSS/EXPRESS/MONGODB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
-
-![Profile views](https://gpvc.arturio.dev/pm-rahman)  
