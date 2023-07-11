@@ -4,7 +4,7 @@ I am skilled in creating dynamic and responsive web applications. I bring a pass
 
 Skills :  REACT /Next.js/ JS / HTML / CSS/EXPRESS/MONGODB
 
-- 🌱 I’m currently learning MongoDB 
+- 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on gitHub 
 - 💬 Ask me about web development 
 
