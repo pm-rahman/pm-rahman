@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mokhlesur Rahman
-#### I am Full Stack MERN Developer
-I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code, and a keen eye for user experience, making me a valuable asset for any team seeking a versatile and dedicated full stack developer. I always like to work as a team
+#### I am a MERN Stack Developer
+I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code, and a keen eye for user experience, making me a valuable asset for any team seeking a versatile and dedicated full-stack developer. I always like to work as a team
 
-Skills :  REACT /Next.js/ JS / HTML / CSS/EXPRESS/MONGODB
+Skills:  REACT /Next.js/ JS / HTML / CSS/EXPRESS/MongoDB
 
 - 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on gitHub 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about web development 
 
 
