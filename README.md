@@ -15,7 +15,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 ### Languages and Tools
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src='https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png' alt='next js' height='40'>](https://nextjs.org/)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' alt='react js' height='40'>](https://react.dev/) 
+[<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' alt='react js' height='40'>](https://react.dev/) 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
