@@ -6,10 +6,16 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 - 🌱 I’m currently learning Typescript. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development
+- 💬 Ask me about #### HTML, CSS, JAVASCRIPT, REACT, NEXT
+- How to reach me mokhlesurinfo5@gmail.com
 
+### Connect with me
 [<img src='https://cdn-icons-png.flaticon.com/256/779/779088.png' alt='github' height='40'>](https://github.com/pm-rahman)
 [<img src='https://cdn-icons-png.flaticon.com/256/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/)  [<img src='https://cdn-icons-png.flaticon.com/256/124/124010.png' alt='facebook' height='40'>](https://www.facebook.com/pm.mokhles)  
+
+### Languages and Tools
+[<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src='https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png' alt='next js' height='40'>](https://nextjs.org/)  [<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' alt='react js' height='40'>](https://react.dev/) 
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
