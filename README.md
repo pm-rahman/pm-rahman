@@ -25,8 +25,8 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true />
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact style="vertical-align: top;" />]
+[<img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true />]
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
 </div>
