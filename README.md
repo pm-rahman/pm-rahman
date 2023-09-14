@@ -26,4 +26,5 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)
