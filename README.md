@@ -27,7 +27,8 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 <div align="center">
   <div style="display: flex;">
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true& style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true />
   </div>
+    ![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
 </div>
