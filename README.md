@@ -23,7 +23,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/) 
 [<img src='https://static-00.iconduck.com/assets.00/mongodb-original-wordmark-icon-2015x2048-n6r3kuri.png' alt='mongodb' height='40'>](https://www.mongodb.com/atlas/database)
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='typescript' height='40'>](https://www.typescriptlang.org/)
-[<img src='https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png' alt='firebase' height='40'>](https://firebase.google.com/)
+[<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
