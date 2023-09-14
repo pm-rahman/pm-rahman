@@ -7,7 +7,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 - 🌱 I’m currently learning Typescript. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about #### HTML, CSS, JAVASCRIPT, REACT, NEXT
-- How to reach me mokhlesurinfo5@gmail.com
+- How to reach me ##### mokhlesurinfo5@gmail.com
 
 ### Connect with me
 [<img src='https://cdn-icons-png.flaticon.com/256/779/779088.png' alt='github' height='40'>](https://github.com/pm-rahman)
@@ -25,8 +25,5 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman)](https://github.com/anuraghazra/github-readme-stats)![GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
