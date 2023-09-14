@@ -6,8 +6,8 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 - 🌱 I’m currently learning Typescript. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about #### HTML, CSS, JAVASCRIPT, REACT, NEXT
-- How to reach me ##### mokhlesurinfo5@gmail.com
+- 💬 Ask me about ####HTML, CSS, JAVASCRIPT, REACT, NEXT
+- How to reach me #####mokhlesurinfo5@gmail.com
 
 ### Connect with me
 [<img src='https://cdn-icons-png.flaticon.com/256/779/779088.png' alt='github' height='40'>](https://github.com/pm-rahman)
