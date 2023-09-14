@@ -18,11 +18,11 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 ### Languages and Tools
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' alt='react js' height='40'>](https://react.dev/)
-[<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png' alt='express js' height='40'>](https://expressjs.com/)
-[<img src='https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/) 
+[<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png' alt='express js' height='40'>](https://expressjs.com/)
 [<img src='https://static-00.iconduck.com/assets.00/mongodb-original-wordmark-icon-2015x2048-n6r3kuri.png' alt='mongodb' height='40'>](https://www.mongodb.com/atlas/database)
 [<img src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='typescript' height='40'>](https://www.typescriptlang.org/)
+[<img src='https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
