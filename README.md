@@ -32,6 +32,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pm-rahman&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=pm-rahman&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
 [!GitHub streak stats](https://streak-stats.demolab.com/?user=pm-rahman)  
 </div>
