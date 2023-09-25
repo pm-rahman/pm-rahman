@@ -10,7 +10,6 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
 
 ### Connect with me
-[<img src='https://cdn-icons-png.flaticon.com/256/779/779088.png' alt='github' height='40'>](https://github.com/pm-rahman)
 [<img src='https://cdn-icons-png.flaticon.com/256/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
 [<img src='https://cdn-icons-png.flaticon.com/256/124/124010.png' alt='facebook' height='40'>](https://www.facebook.com/pm.mokhles)
 
