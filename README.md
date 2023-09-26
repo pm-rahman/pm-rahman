@@ -21,7 +21,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png' alt='express js' height='40'>](https://expressjs.com/)
 [<img src='https://static-00.iconduck.com/assets.00/mongodb-original-wordmark-icon-2015x2048-n6r3kuri.png' alt='mongodb' height='40'>](https://www.mongodb.com/atlas/database)
 [<img src='https://raw.githubusercontent.com/aouahib/redux_app_final/main/src/assets/logo.png' alt='Redux' height='40'>]([https://redux.js.org/))
-[<img src='https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png' alt='node js' height='40'>](https://nodejs.org/en)
+[<img src='https://raw.githubusercontent.com/SpeedyC86/prezentare-nodejs/master/assets/nodejs-logo.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm-rahman)](https://git.io/streak-stats)
