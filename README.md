@@ -18,9 +18,9 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/JavaScript.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/) 
 [<img src='https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/react.png' alt='react js' height='40'>](https://react.dev/)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/redux.png' alt='Redux' height='40'>](https://redux.js.org/)
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png' height='40'>](https://expressjs.com/)
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/mongo.png' alt='mongodb' height='40'>](https://www.mongodb.com/atlas/database)
-[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/redux.png' alt='Redux' height='40'>]([https://redux.js.org/))
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/node.png' alt='node js' height='40'>](https://nodejs.org/en)
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/firebase.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
