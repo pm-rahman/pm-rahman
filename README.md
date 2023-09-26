@@ -1,4 +1,4 @@
-![image](https://github.com/pm-rahman/pm-rahman/assets/110546974/76f5436a-b4c4-46b4-8a4f-fa7554af9858)### Hi there 👋, I'm Mokhlesur Rahman
+### Hi there 👋, I'm Mokhlesur Rahman
 #### I am a MERN Stack Developer
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
@@ -17,12 +17,12 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 ### Languages and Tools
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/JavaScript.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/) 
-[<img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png' alt='react js' height='40'>](https://react.dev/)
-[<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png' alt='express js' height='40'>](https://expressjs.com/)
+[<img src='https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/react.png' alt='react js' height='40'>](https://react.dev/)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png' height='40'>](https://expressjs.com/)
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/mongo.png' alt='mongodb' height='40'>](https://www.mongodb.com/atlas/database)
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/redux.png' alt='Redux' height='40'>]([https://redux.js.org/))
-[<img src='https://raw.githubusercontent.com/SpeedyC86/prezentare-nodejs/master/assets/nodejs-logo.png' alt='node js' height='40'>](https://nodejs.org/en)
-[<img src='https://cdn.iconscout.com/icon/free/png-256/free-firebase-1-282796.png' alt='firebase' height='40'>](https://firebase.google.com/)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/node.png' alt='node js' height='40'>](https://nodejs.org/en)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/firebase.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm-rahman)](https://git.io/streak-stats)
 
