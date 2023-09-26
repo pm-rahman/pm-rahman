@@ -10,8 +10,8 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
 
 ### Connect with me
-[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
-[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png' alt='facebook' height='50'>](https://www.facebook.com/pm.mokhles)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png' alt='facebook' height='70'>](https://www.facebook.com/pm.mokhles)
 
 
 ### Languages and Tools
