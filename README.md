@@ -11,7 +11,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 ### Connect with me
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/512px-Facebook_New_Logo_%282015%29.svg.png' alt='facebook' height='40'>](https://www.facebook.com/pm.mokhles)
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png' alt='facebook' height='40'>](https://www.facebook.com/pm.mokhles)
 
 
 ### Languages and Tools
