@@ -10,7 +10,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
 
 ### Connect with me
-[<img src='https://funnel.io/hs-fs/hubfs/LinkedIn-Logo.png?width=544&height=280&name=LinkedIn-Logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
+[<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Facebook_New_Logo_%282015%29.svg/512px-Facebook_New_Logo_%282015%29.svg.png' alt='facebook' height='40'>](https://www.facebook.com/pm.mokhles)
 
 
