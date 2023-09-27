@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Mokhlesur Rahman
-#### I am a MERN Stack Developer
+## I am a MERN Stack Developer
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
 Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
@@ -9,12 +9,12 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
 
-### Connect with me
+## Connect with me
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Linkedin.png' alt='linkedin' height='70'>](https://www.linkedin.com/in/mokhlesur-rahaman-082b98251/) 
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/Facebook.png' alt='facebook' height='70'>](https://www.facebook.com/pm.mokhles)
 
 
-### Languages and Tools
+## Languages and Tools
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/JavaScript.png' alt='javascript' height='40'>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src='https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png' alt='next js' height='40'>](https://nextjs.org/) 
 [<img src='https://github.com/mir-hussain/mir-hussain/raw/main/images/icons/react.png' alt='react js' height='40'>](https://react.dev/)
