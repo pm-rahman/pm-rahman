@@ -4,7 +4,7 @@ I am skilled in creating dynamic and responsive web applications. I bring a pass
 
 Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
-- 👨‍🏫 I’m currently learning Redux. 
+- 👨‍🏫 I’m currently learning Prisma. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
