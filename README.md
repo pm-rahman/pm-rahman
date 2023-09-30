@@ -28,10 +28,10 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [<img src='https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/firebase.png' alt='firebase' height='40'>](https://firebase.google.com/)
 
 
-<span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm-rahman)](https://git.io/streak-stats)</span>
 
 <div  style="display: flex; align-items: flex-start;">
       <img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
+<span>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm-rahman)](https://git.io/streak-stats)</span>
 </div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
 
