@@ -30,13 +30,9 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pm-rahman)](https://git.io/streak-stats)
 
 
-<div  style="display: flex;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
-    </div>
-    <div>
+<div  style="display: flex; align-items: flex-start;">
       <img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
-    </div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
 </div>
 
 
