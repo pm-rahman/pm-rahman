@@ -31,8 +31,12 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 
 <div  style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm-rahman&layout=compact&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
+    </div>
+    <div>
       <img src="https://github-readme-stats.vercel.app/api?username=pm-rahman&show_icons=true&title_color=34abeb&icon_color=34abeb&text_color=151515&bg_color=ffffff"/>
+    </div>
 </div>
 
 
