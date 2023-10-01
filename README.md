@@ -1,10 +1,10 @@
 ### Hi there 👋, It's Mokhlesur Rahman
-## I am a Frontend focused MERN Stack Developer
+## I am Frontend focused MERN Stack Developer
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
 Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
-- 👨‍🏫 I’m currently learning Redux. 
+- 👨‍🏫 I’m currently learning Prisma. 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about **JAVASCRIPT, REACT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
