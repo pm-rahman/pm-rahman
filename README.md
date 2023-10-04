@@ -1,5 +1,5 @@
 ### Hi there 👋, It's Mokhlesur Rahman
-## I am Frontend focused MERN Stack Developer
+## I am MERN Stack Developer
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
 Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
