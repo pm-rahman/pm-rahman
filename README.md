@@ -6,7 +6,7 @@ Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
 - 👨‍🏫 I’m currently learning Shopify. 
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about **JAVASCRIPT, REACT, NEXT**
+- 💬 Ask me about **JAVASCRIPT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
 
 ## Connect with me
