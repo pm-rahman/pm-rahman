@@ -4,7 +4,7 @@ I am skilled in creating dynamic and responsive web applications. I bring a pass
 
 Skills:  JS/ React / Next.js/ Node/ Express/ MongoDB
 
-- 👨‍🏫 I’m currently learning Shopify. 
+- 👨‍🏫 I’m currently learning CMS.
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about **JAVASCRIPT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
