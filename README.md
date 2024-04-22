@@ -2,7 +2,7 @@
 ## I am MERN Stack Developer
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
-Skills:  JS/ React/ Typescript/ Next.js/ Node/ Express/ MongoDB
+Skills:  JS/ React/ Typescript/ Next.js/ Node/ Express/ MongoDB/ AWS
 
 - 👨‍🏫 I’m currently learning CMS.
 - 👯 I’m looking to collaborate on GitHub 
