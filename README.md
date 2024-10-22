@@ -1,10 +1,10 @@
 ### Hi there 👋, It's Mokhlesur Rahman
-## I am MERN Stack Developer
+## I am a Software Developer at XPONENT InfoSystem (PVT) Ltd.
 I am skilled in creating dynamic and responsive web applications. I bring a passion for clean code and a keen eye for user experience.
 
 Skills: JS/ React/ Next.js/ Node/ Express/ MongoDB/ Prisma/ AWS
 
-- 👨‍🏫 I’m currently learning Shopify.
+- 👨‍🏫 I’m currently learning .NET.
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about **JAVASCRIPT, NEXT**
 - 🕵️‍♂️ How to reach me **mokhlesurinfo5@gmail.com**
